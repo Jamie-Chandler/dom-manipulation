@@ -15,7 +15,9 @@
 // console.log(document.links);
 // console.log(document.images);
 
+// ================================
 // GETELEMENTBYID //
+
 // console.log(document.getElementById('header-title'));
 // var headerTitle = document.getElementById('header-title');
 // var header = document.getElementById('main-header');
@@ -26,7 +28,9 @@
 // headerTitle.innerHTML = '<h3>Hello</h3>';
 // header.style.borderBottom = 'solid 3px #000';
 
+// ================================
 // GETELEMENTSBYCLASSNAME //
+
 // var items = document.getElementsByClassName('list-group-item');
 // console.log(items);
 // console.log(items[1]);
@@ -41,6 +45,7 @@
 //   items[i].style.backgroundColor = '#f4f4f4';
 // }
 
+// ================================
 // GETELEMENTSBYTAGNAME //
 // var li = document.getElementsByTagName('li');
 // console.log(li);
@@ -56,6 +61,7 @@
 //   li[i].style.backgroundColor = '#f4f4f4';
 // }
 
+// ================================
 // QUERYSELECTOR //
 // var header = document.querySelector('#main-header');
 // header.style.borderBottom = 'solid 4px #ccc';
@@ -75,6 +81,7 @@
 // var secondItem = document.querySelector('.list-group-item:nth-child(2)');
 // secondItem.style.color = 'coral';
 
+// ================================
 // QUERYSELECTORALL //
 // var titles = document.querySelectorAll('.title');
 
